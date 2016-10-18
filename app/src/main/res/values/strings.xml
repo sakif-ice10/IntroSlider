@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IntroSlider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Wana Travel!</string>
+    <string name="slide_1_desc">The easiest way to plan your tour!</string>
+
+    <string name="slide_2_title">Find Places</string>
+    <string name="slide_2_desc">Find best restaurants in the city!</string>
+
+    <string name="slide_3_title">Expense Tracker</string>
+    <string name="slide_3_desc">Best way to track all kinds of expense!</string>
+
+    <string name="slide_4_title">Easy Weather</string>
+    <string name="slide_4_desc">Easiest way to learn about weather!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
